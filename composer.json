@@ -1,0 +1,13 @@
+{
+    "name": "roman/geekhub-homework-02",
+    "description": "Geekhub homework 02",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Roman Kyrii",
+            "email": "romankyrii@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
