@@ -10,10 +10,11 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=5.3.0",
+        "php": ">=5.5.9",
         "ext-intl": "*",
         "ext-json": "*",
         "monolog/monolog": "1.0.*",
-        "nesbot/carbon": "^1.21"
+        "nesbot/carbon": "^1.21",
+        "symfony/routing": "^3.1"
     }
 }
